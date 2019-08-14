@@ -20,7 +20,7 @@ end
 
 def modulo(num1="16", num2="4")
   puts "thunder"
-  num1 % num2 = 4
+  num1 % num2 
 end
 
 def square_root(num="81")
